@@ -1,0 +1,25 @@
+.Klimatiltak {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+.Klimatiltak__header {
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Klimatiltak__content {
+    height: 70vh;
+}
+
+.Klimatiltak__footer {
+    height: 10vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
